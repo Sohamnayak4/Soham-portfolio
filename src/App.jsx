@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1>Counter</h1>
+      <h1>Soham Nayak</h1>
     </>
   )
 }

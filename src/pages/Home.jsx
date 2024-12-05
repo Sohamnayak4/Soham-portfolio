@@ -62,7 +62,7 @@ export default function Home() {
           </Box>
           <Box
             component="img"
-            src="/src/assets/images/IMG20240704165324.jpg"
+            src="./src/assets/images/IMG20240704165324.jpg"
             alt="Soham Nayak"
             sx={{
               width: "100%",

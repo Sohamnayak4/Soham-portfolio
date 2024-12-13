@@ -74,7 +74,7 @@ export default function Projects() {
         "A collaborative task management system with real-time updates, user authentication and task filtering system.",
       image: "images/project1.png",
       technologies: ["React", "Node.js", "MongoDB", "Express"],
-      demoLink: "https://task-manager-app-frontend-5k8b.onrender.com",
+      demoLink: "tasks.sohamnayak.tech",
       codeLink: "https://github.com/Sohamnayak4/Task-Manager-app",
     },
   ];

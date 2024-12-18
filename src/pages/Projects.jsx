@@ -73,9 +73,18 @@ export default function Projects() {
       description:
         "A collaborative task management system with real-time updates, user authentication and task filtering system.",
       image: "images/project1.png",
-      technologies: ["React", "Node.js", "MongoDB", "Express"],
+      technologies: ["React", "Node.js", "MongoDB", "Express", "Tailwind CSS", "JWT"],
       demoLink: "https://tasks.sohamnayak.tech",
       codeLink: "https://github.com/Sohamnayak4/Task-Manager-app",
+    },
+    {
+      title: "Real-Time Chat Application",
+      description:
+        "A real-time chat application with user authentication, online status and a nice and responsive UI.",
+      image: "images/project2.png",
+      technologies: ["React", "Node.js", "MongoDB", "Express", "Socket.io", "Tailwind CSS", "JWT"],
+      demoLink: "https://chat.sohamnayak.tech",
+      codeLink: "https://github.com/Sohamnayak4/ChatApp",
     },
   ];
 

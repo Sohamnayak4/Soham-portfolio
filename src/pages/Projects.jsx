@@ -86,6 +86,15 @@ export default function Projects() {
       demoLink: "https://chat.sohamnayak.tech",
       codeLink: "https://github.com/Sohamnayak4/ChatApp",
     },
+    {
+      title: "FocusTube Landing Page",
+      description:
+        "A responsive landing page with a nice and modern design for a YouTube productivity SaaS named FocusTube.",
+      image: "images/project3.png",
+      technologies: ["Next.js", "Tailwind CSS", "Figma", "Framer Motion"],
+      demoLink: "https://focustube.sohamnayak.tech",
+      codeLink: "https://github.com/Sohamnayak4/saas-landing",
+    },
   ];
 
   return (

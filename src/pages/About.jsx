@@ -66,7 +66,7 @@ export default function About() {
             </Typography>
             <Typography variant="body2" align="center">
               JavaScript, Typescript, React, Node.js, Express, Next.js, MUI, HTML, CSS, Git,
-              Docker MongoDB, Python, Golang
+              Docker, MongoDB, Python, Golang
             </Typography>
           </Paper>
         </Grid>

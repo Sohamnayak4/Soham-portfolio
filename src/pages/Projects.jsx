@@ -69,6 +69,14 @@ const ProjectItem = ({
 export default function Projects() {
   const projects = [
     {
+      title: "Cold Message Generator",
+      description: "A platform where you can provide the details of the sender and the receiver and set a goal and let the AI write a cold message for you",
+      image: "images/project4.png",
+      technologies: ["React", "Node.js", "Express", "Tailwind CSS", "Supabase", "Stripe"],
+      demoLink: "https://message-craft-flow.vercel.app/",
+      codeLink: "https://github.com/Sohamnayak4/message-craft-flow",
+    }
+    {
       title: "Task Management System",
       description:
         "A collaborative task management system with real-time updates, user authentication and task filtering system.",
